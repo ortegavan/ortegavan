@@ -1,3 +1,3 @@
 ## Olá!
 
-Sou Vanessa. Desenvolvo sistemas (front e back-end) na plataforma .NET há mais de 15 anos. Atualmente estou focada em trabalhos e estudos em UX & UI e me especializando em front-end (Angular e React). Para contato, me envie um e-mail em <a href="mailto:ortegavan@live.com">ortegavan@live.com</a>.
+Sou Vanessa, desenvolvedora com mais de 15 anos de experiência na plataforma .NET e, nos últimos anos, com foco em front-end, especialmente em Angular + RxJS. Também me especializei em UI e faço pós-graduação em UX. Quer conversar sobre um projeto? Entre em contato via <a href="mailto:ortegavan@live.com">ortegavan@live.com</a>.
